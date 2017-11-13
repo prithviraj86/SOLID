@@ -15,6 +15,3 @@ Many client-specific interfaces are better than one general-purpose interface. [
 ### Dependency Inversion Principle
 Depend upon abstractions. Do not depend upon concretions. [Example](./5-dependency-inversion-principle.php)
 
-#### For more information about *Object Oriented Design Principles*, you can refer [this slide](https://viblo.asia/thangtd90/posts/pVYRPJPmG4ng)
-# SOLID
-# SOLID
